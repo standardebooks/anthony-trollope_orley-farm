@@ -71,7 +71,8 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Joseph E. Loewenstein</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Loewenstein, Joseph E.</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Reimer</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Reimer, David</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://github.com/dajare</meta>
