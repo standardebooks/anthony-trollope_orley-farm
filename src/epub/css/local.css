@@ -63,12 +63,7 @@ p span.i1{
 }
 
 #chapter-41 header p:first-child{
-	display: flex;
-	justify-content: space-between;
-	text-align: initial;
-}
-
-#chapter-41 span:first-of-type{
 	font-style: italic;
+	text-align: initial;
 }
 /* end bespoke styling */
