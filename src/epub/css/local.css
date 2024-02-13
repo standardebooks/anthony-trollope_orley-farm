@@ -66,4 +66,16 @@ p span.i1{
 	font-style: italic;
 	text-align: initial;
 }
+
+@supports(display: flex){
+	#chapter-41 header{
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+	}
+
+	#chapter-41 header p:last-child{
+		flex-basis: 100%;
+	}
+}
 /* end bespoke styling */
