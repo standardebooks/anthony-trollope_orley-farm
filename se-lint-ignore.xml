@@ -12,4 +12,10 @@
 			<reason>Doubled "the" is a false positive: the second occurrence is made by a U+2011.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-66.xhtml">
+		<ignore>
+			<code>t-049</code>
+			<reason>Two-em dash is used to elide an entire year.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
