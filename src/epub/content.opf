@@ -58,7 +58,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23000</dc:source>
 		<dc:source>https://books.google.com/books?id=Ktng8Qt7tDcC</dc:source>
-		<meta property="se:word-count">312972</meta>
+		<meta property="se:word-count">309495</meta>
 		<meta property="se:reading-ease.flesch">80.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Orley_Farm</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_orley-farm</meta>
