@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-33.xhtml">
-		<ignore>
-			<code>y-001</code>
+		<ignore code="y-001">
 			<reason>Doubled "the" is a false positive: the second occurrence is made by a U+2011.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-43.xhtml">
-		<ignore>
-			<code>y-001</code>
+		<ignore code="y-001">
 			<reason>Doubled "the" is a false positive: the second occurrence is made by a U+2011.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-66.xhtml">
-		<ignore>
-			<code>t-049</code>
+		<ignore code="t-049">
 			<reason>Two-em dash is used to elide an entire year.</reason>
 		</ignore>
 	</file>
